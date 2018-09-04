@@ -1,5 +1,6 @@
-To have this example executed you should do the following :<br><br>
+To have this example executed you should do the following :<br>
 
+Type the followiung commands on the Terminal: <br><br>
 1.npm install -g create-react-app <br>
   The above command will install create-react-app globally on your system so that you can use it anywhere you want.<br><br>
 2.Download this github repo<br><br>
